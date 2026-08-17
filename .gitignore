@@ -5,4 +5,3 @@ __pycache__/
 .DS_Store
 data/raw/*.gpkg
 data/raw/*.tif
-models/*.joblib
